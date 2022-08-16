@@ -11,8 +11,8 @@
 
 ##
 
-- 🔭 I’m currently working on back-end (beginner)
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Data Science projects.
+- 🌱 I’m currently learning back-end with Java.
 
 ##
 
