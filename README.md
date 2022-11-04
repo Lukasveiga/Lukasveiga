@@ -13,7 +13,7 @@
 ##
 
 - 🔭 I’m currently working on Data Science projects.
-- 🌱 I’m currently learning back-end with Java.
+- 🌱 I’m currently learning back-end with Java + SQL + Spring.
 
 ##
 
