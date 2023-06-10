@@ -13,7 +13,8 @@
 
 ##
 
-- 🌱 I’m currently learning back-end with Java + SQL + Spring.
+- 💻 I’m currently developing back-end projects with Java + Spring Boot.
+- 🌱 I’m currently learning back-end with Nodejs + Express.
 
 ##
 
