@@ -17,8 +17,8 @@
 ##
 - 📚 Studying Software Development with focus on backend at [Cubos Academy](https://www.linkedin.com/school/cubos-academy/).
 
-- 💻 I’m currently developing back-end projects with Java + Spring Boot.
-- 🌱 I’m currently learning back-end with Nodejs + Express.
+- 💻 I’m currently developing backend projects with Java + Spring Boot.
+- 🌱 I’m currently learning backend with Nodejs + Express.
 
 ##
 
