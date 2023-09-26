@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukasveiga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasveiga&hide=jupyter%20notebook&layout=compact&langs_count=4&theme=dark"/>
     <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig" width="450" height="195" alt="Progress 100 days of code">
+  <img height="180em" src="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig" width="450" height="195" alt="Progress 100 days of code">
 </a>
 </div>
 
