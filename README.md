@@ -1,13 +1,6 @@
-<div align="center">
-  <a href="https://github.com/Lukasveiga/Lukasveiga">
-    <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig">
-  <img height="180em" src="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig" width="450" height="195" alt="Progress 100 days of code">
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=lukasveig" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
-</div>
-
-
-
-
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lukas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
