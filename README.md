@@ -1,3 +1,5 @@
+![Header](https://github.com/Lukasveiga/Lukasveiga/blob/master/github-header-image.png?raw=true)
+
 <i>Olá, meu nome é Lukas, sou Desenvolvedor Backend.</i> 
 <p align='justify'>
   Venho estudando programação há pelo menos 3 anos, com foco no desenvolvimento web backend utilizando Java + Spring Boot. Também possuo experiência em Javascript, Typescript, Node.js e Express. Já atuei como cientista de dados com foco em pesquisas científicas na área de meio ambiente, onde desenvolvi conhecimento na linguagem de programação python, análise de dados e modelos de machine learning. Atualmente, tenho me dedicado ao estudo de modelos de desenvolvimento ágil, como TDD, e padrões de projeto, como o Clean Architecture.
