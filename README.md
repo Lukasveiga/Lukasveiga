@@ -12,6 +12,7 @@
   <img align="center" alt="Lukas-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lukas-SQL" height="40" width="50" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
   <img align="center" alt="Lukas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lukas-Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">
 </div>
 <br>
 <div align='justify'>
