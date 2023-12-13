@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align='justify'>
-  <b>Principais projetos:</b><br>
+  <b>Principais projetos:</b><br><br>
   <ul>
     <li>
       <a href='https://github.com/Lukasveiga/book-manager'>Book Manager API</a>
