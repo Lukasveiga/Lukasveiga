@@ -39,7 +39,7 @@
 
 <div> 
   Estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas que impactem o mercado. Além de aberto a opotunidades de emprego e colaboração em projetos.<br><br>
-  <b>Contatos:</b><br>
+  <b>Contatos:</b><br><br>
   <a href = "mailto:lukas.veiga10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukas-veiga-79371b20a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
