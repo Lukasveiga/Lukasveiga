@@ -22,7 +22,9 @@
   <ul>
     <li>
       <a href='https://github.com/Lukasveiga/book-manager'>Book Manager API</a>
-  <p>Rest API para cadastros de livros, assim como seus autores e as categorias a qual pertencem. Projeto desenvolvido com Java + Spring Boot + PostgreSQL + Docker.</p>
+  <p>
+    REST API para gerenciamento de cadastros de livros, bem como seus respectivos autores e categorias associadas. O projeto foi elaborado adotando o padrão de arquitetura em camadas, seguindo o princípio de responsabilidade única (Single Responsibility Principle), e contempla cobertura de testes tanto unitários quanto de integração.<br>
+    Tecnologias utilizadas: Java + Spring Boot + PostgreSQL + Docker.</p>
     </li>
     <li>
       <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
