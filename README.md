@@ -28,7 +28,10 @@
     </li>
     <li>
       <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
-  <p>Rest API de lista de tarefas. Projet desenvolvido com Javascript + NodeJs + Express + PotgreSQL + Docker.</p>
+  <p>Rest API de lista de tarefas. A princípio parace ser um projeto to-do list como qualquer outro, porém esse projeto tem como objetivo colocar em prática importantes conceitos de desenvolvimento backend para criação de um software robusto.
+  Quais conceitos são encontrados nesse projeto? Padrão de camadas, testes unitários e de integração, banco de dados conteinerizados, princípios de arquitetura limpa, SOLID e cache. <br>
+    Tecnologias utilizadas: JavaScript + NodeJS + PostgreSQL + Redis + Docker.</p>
+  </p>
     </li>
     <li>
       <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
