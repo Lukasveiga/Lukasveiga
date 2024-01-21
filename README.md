@@ -8,9 +8,9 @@ lukas-veiga@backend:~$ sudo get about -lang pt-br
 Venho estudando programação há pelo menos 3 anos, com foco no desenvolvimento web backend utilizando
 Java + Spring Boot.Também possuo experiência em Javascript,  Typescript, Node.js e Express. Já atuei
 como cientista de dados com  foco em pesquisas científicas na área de meio ambiente, onde desenvolvi
-conhecimento na linguagem de programação python, análise de dados e modelosde machine learning.
-Atualmente,tenho me dedicado ao estudo de modelos de desenvolvimento ágil,como TDD, e padrões de projeto,
-como o Clean Architecture.
+conhecimento na linguagem de programação python, análise de dados e modelos de machine learning.
+Atualmente, tenho me dedicado ao estudo de modelos de desenvolvimento ágil, como TDD, e padrões de
+projeto, como o Clean Architecture.
 
 lukas-veiga@backend:~$ sudo get about -lang en-us
 
@@ -18,8 +18,8 @@ I have been studying programming for at least 3 years, with a focus on web backe
 Java + Spring Boot.  I also have experience in Javascript, Typescript, Node.js, and Express.  I have
 previously  worked as a data scientist,  focusing on  scientific research in the environmental field,
 where I developed expertise in the Python programming language,  data analysis, and machine learning
-models. Currently, I have been dedicated to studying agile development models, such as TDD, and design
-patterns, like Clean Architecture.
+models. Currently, I have been dedicated to studying agile development models, such as TDD, and
+design patterns, like Clean Architecture.
 ```
    
 <div style="display: inline_block"><br> 
