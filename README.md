@@ -18,8 +18,8 @@ I have been studying programming for at least 3 years, with a focus on web backe
 Java + Spring Boot.  I also have experience in Javascript, Typescript, Node.js, and Express.  I have
 previously  worked as a data scientist,  focusing on  scientific research in the environmental field,
 where I developed expertise in the Python programming language,  data analysis, and machine learning
-models.Currently, I have been dedicated to studying agile development models, such as TDD, and design
-patterns,like Clean Architecture.
+models. Currently, I have been dedicated to studying agile development models, such as TDD, and design
+patterns, like Clean Architecture.
 ```
    
 <div style="display: inline_block"><br> 
