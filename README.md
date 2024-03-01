@@ -46,7 +46,7 @@ design patterns, like Clean Architecture.
     </li>
     <li>
       <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
-  <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Docker as a container deploy.</p>
+  <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Conteinerização da aplicação com Docker + Continuous Integration.</p>
     </li>
   </ul>
 </div>
