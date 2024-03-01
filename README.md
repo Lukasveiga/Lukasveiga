@@ -38,12 +38,6 @@ design patterns, like Clean Architecture.
   <b>Principais projetos:</b><br><br>
   <ul>
     <li>
-      <a href='https://github.com/Lukasveiga/book-manager'>Book Manager API</a>
-  <p>
-    REST API para gerenciamento de cadastros de livros, bem como seus respectivos autores e categorias associadas. O projeto foi elaborado adotando o padrão de arquitetura em camadas, seguindo o princípio de responsabilidade única (Single Responsibility Principle), e contempla cobertura de testes tanto unitários quanto de integração.<br>
-    Tecnologias utilizadas: Java + Spring Boot + PostgreSQL + Docker.</p>
-    </li>
-    <li>
       <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
   <p>Rest API de lista de tarefas. A princípio parace ser um projeto to-do list como qualquer outro, porém esse projeto tem como objetivo colocar em prática importantes conceitos de desenvolvimento backend para criação de um software robusto.
   Quais conceitos são encontrados nesse projeto? Padrão de camadas, testes unitários e de integração, banco de dados conteinerizados, princípios de arquitetura limpa, SOLID e cache. <br>
