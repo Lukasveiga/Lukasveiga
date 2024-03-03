@@ -37,6 +37,16 @@ design patterns, like Clean Architecture.
 <div align='justify'>
   <b>Principais projetos:</b><br><br>
   <ul>
+     <li>
+      <a href='https://github.com/Lukasveiga/hogwarts-artifacts-online'>Hogwarts Artifacts Online Rest API</a>
+  <p>Rest API para o gerenciamento de artefatos da escola de magia Hogwarts. Onde é possível gerenciar os artefatos assim como os bruxos que possuem esses artefatos. <br>
+  Tecnologias utilizadas: Java + Spring Boot + MySQL + conteinerização com Docker + CI/CD GitHub Actions + Deploy na Azure + Autenticação e autorização com JWT.
+  </p>
+    </li>
+     <li>
+      <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
+  <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Conteinerização da aplicação com Docker + Continuous Integration.</p>
+    </li>
     <li>
       <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
   <p>Rest API de lista de tarefas. A princípio parace ser um projeto to-do list como qualquer outro, porém esse projeto tem como objetivo colocar em prática importantes conceitos de desenvolvimento backend para criação de um software robusto.
@@ -44,10 +54,16 @@ design patterns, like Clean Architecture.
     Tecnologias utilizadas: JavaScript + NodeJS + PostgreSQL + Redis + Docker.</p>
   </p>
     </li>
-    <li>
-      <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
-  <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Conteinerização da aplicação com Docker + Continuous Integration.</p>
-    </li>
+     <li>
+        <a href="https://github.com/Lukasveiga/book-manager">Book Manager API</a>
+        <p>REST API para gerenciamento de cadastros de livros, bem como seus respectivos autores e categorias associadas. O projeto foi elaborado adotando o padrão de arquitetura em camadas, seguindo o princípio de responsabilidade única (Single Responsibility Principle), e contempla cobertura de testes tanto unitários quanto de integração.<br>
+Tecnologias utilizadas: Java + Spring Boot + PostgreSQL + Docker.</p>
+     </li>
+     <li>
+        <a href="https://github.com/Lukasveiga/employee-rest-api">Employee’s Rest API</a>
+        <p>Esta API consiste em um aplicativo simples de gerenciamento de funcionários, contendo informações sobre nome, sobrenome e email. É possível realizar todas as operações CRUD (Criar, Ler, Atualizar e Excluir) no banco de dados através dos endpoints. O foco principal desta API é desenvolver habilidades no desenvolvimento de estruturas back-
+end usando o framework Spring Boot, incluindo melhores práticas de código limpo, princípios SOLID, padrão de camadas e testes unitários e de integração.</p>
+     </li>
   </ul>
 </div>
 
