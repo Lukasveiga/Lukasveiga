@@ -38,7 +38,7 @@ design patterns, like Clean Architecture.
   <b>Principais projetos:</b><br><br>
   <ul>
      <li>
-      <a href='https://github.com/Lukasveiga/hogwarts-artifacts-online'>Hogwarts Artifacts Online Rest API</a>
+      <a href='https://github.com/Lukasveiga/hogwarts-artifacts-online'>Hogwarts Artifacts Online Rest API (#in-progress)</a>
   <p>Rest API para o gerenciamento de artefatos da escola de magia Hogwarts. Onde é possível gerenciar os artefatos assim como os bruxos que possuem esses artefatos. <br>
   Tecnologias utilizadas: Java + Spring Boot + MySQL + conteinerização com Docker + CI/CD GitHub Actions + Deploy na Azure + Autenticação e Autorização com JWT + Documentação com Swagger + Avaliação de métricas com Spring actuator, prometheus, grafana e Zipkin.
   </p>
