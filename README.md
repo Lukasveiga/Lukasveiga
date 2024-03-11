@@ -38,6 +38,12 @@ design patterns, like Clean Architecture.
   <b>Principais projetos:</b><br><br>
   <ul>
      <li>
+        <a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System(#developing)</a>
+        <p>
+           This project entails the development of a robust hotel reservation system REST API leveraging Java and Spring Boot.
+        </p>
+     </li>
+     <li>
       <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
   <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Conteinerização da aplicação com Docker + Continuous Integration.</p>
     </li>
