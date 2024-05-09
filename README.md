@@ -11,7 +11,7 @@ models. Currently, I have been dedicated to studying agile development models, s
 design patterns, like Clean Architecture.
 ```
    <div>
-      <img align="right" src="https://cdn.dribbble.com/users/1180042/screenshots/6033860/iron_giant_walk.gif" height="350">
+      <img align="right" src="https://cdn.dribbble.com/users/1180042/screenshots/6033860/iron_giant_walk.gif" height="340">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact" alt="lukasveiga" width="300"/>
       <br><br>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en" alt="lukasveiga" width="400"/>
