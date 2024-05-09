@@ -1,18 +1,7 @@
-![Header](https://github.com/Lukasveiga/Lukasveiga/blob/master/github-header-image.png?raw=true)
-
-<i>Olá, meu nome é Lukas, sou Desenvolvedor Backend.</i> 
+<h1 align="left">Hi 👋, I'm Lukas, Backend Developer.</h1>
 
 ```console
-lukas-veiga@backend:~$ sudo get about -lang pt-br
-
-Venho estudando programação há pelo menos 3 anos, com foco no desenvolvimento web backend utilizando
-Java + Spring Boot.Também possuo experiência em Javascript,  Typescript, Node.js e Express. Já atuei
-como cientista de dados com  foco em pesquisas científicas na área de meio ambiente, onde desenvolvi
-conhecimento na linguagem de programação python, análise de dados e modelos de machine learning.
-Atualmente, tenho me dedicado ao estudo de modelos de desenvolvimento ágil, como TDD, e padrões de
-projeto, como o Clean Architecture.
-
-lukas-veiga@backend:~$ sudo get about -lang en-us
+lukas-veiga@backend:~$ sudo get about
 
 I have been studying programming for at least 3 years, with a focus on web backend development using
 Java + Spring Boot.  I also have experience in Javascript, Typescript, Node.js, and Express.  I have
@@ -23,7 +12,10 @@ design patterns, like Clean Architecture.
 ```
    
 <div style="display: inline_block"><br> 
-  <b>Tecnologias:</b><br><br>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact" alt="lukasveiga" /></p>
+
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en" alt="lukasveiga" /></p>
+  <b>Technologies:</b><br><br>
   <img align="center" alt="Lukas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Lukas-Spring" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">
   <img align="center" alt="Lukas-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -32,10 +24,11 @@ design patterns, like Clean Architecture.
   <img align="center" alt="Lukas-SQL" height="40" width="50" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
   <img align="center" alt="Lukas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lukas-Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">
+  <img align="center" alt="Lukas-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
 <br>
 <div align='justify'>
-  <b>Principais projetos:</b><br><br>
+  <b>Main projects:</b><br><br>
   <ul>
      <li>
         <a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System(#developing)</a>
@@ -45,24 +38,22 @@ design patterns, like Clean Architecture.
      </li>
      <li>
       <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
-  <p>Software de envio de newsletter desenvolvido seguindo os padrões do Clean Architecture com Typescript + NodeJs + MongoDB + Express + Conteinerização da aplicação com Docker + Continuous Integration.</p>
+  <p>Newsletter sending software developed following Clean Architecture standards with Typescript + NodeJs + MongoDB + Express + Application containerization with Docker + Continuous Integration</p>
     </li>
     <li>
       <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
-  <p>Rest API de lista de tarefas. A princípio parace ser um projeto to-do list como qualquer outro, porém esse projeto tem como objetivo colocar em prática importantes conceitos de desenvolvimento backend para criação de um software robusto.
-  Quais conceitos são encontrados nesse projeto? Padrão de camadas, testes unitários e de integração, banco de dados conteinerizados, princípios de arquitetura limpa, SOLID e cache. <br>
-    Tecnologias utilizadas: JavaScript + NodeJS + PostgreSQL + Redis + Docker.</p>
+  <p>Task List API. At first it appears to be a to-do list project like any other, but this project aims to put into practice important backend development concepts for creating robust software.
+  What concepts are found in this project? Layering pattern, unit and integration tests, containerized databases, clean architecture principles, SOLID and caching.
+ <br>
+    Technologies used: JavaScript + NodeJS + PostgreSQL + Redis + Docker.</p>
   </p>
     </li>
      <li>
         <a href="https://github.com/Lukasveiga/book-manager">Book Manager API</a>
-        <p>REST API para gerenciamento de cadastros de livros, bem como seus respectivos autores e categorias associadas. O projeto foi elaborado adotando o padrão de arquitetura em camadas, seguindo o princípio de responsabilidade única (Single Responsibility Principle), e contempla cobertura de testes tanto unitários quanto de integração.<br>
-Tecnologias utilizadas: Java + Spring Boot + PostgreSQL + Docker.</p>
-     </li>
-     <li>
-        <a href="https://github.com/Lukasveiga/employee-rest-api">Employee’s Rest API</a>
-        <p>Esta API consiste em um aplicativo simples de gerenciamento de funcionários, contendo informações sobre nome, sobrenome e email. É possível realizar todas as operações CRUD (Criar, Ler, Atualizar e Excluir) no banco de dados através dos endpoints. O foco principal desta API é desenvolver habilidades no desenvolvimento de estruturas back-
-end usando o framework Spring Boot, incluindo melhores práticas de código limpo, princípios SOLID, padrão de camadas e testes unitários e de integração.</p>
+        <p>Rest API for managing book registrations, as well as their respective authors and associated categories. The project was prepared adopting the layered architecture pattern, following the Single Responsibility Principle, and includes coverage of both unit and integration tests.
+
+<br>
+Technologies used: Java + Spring Boot + PostgreSQL + Docker.</p>
      </li>
   </ul>
 </div>
@@ -70,8 +61,8 @@ end usando o framework Spring Boot, incluindo melhores práticas de código limp
 ---
 
 <div> 
-  Estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas que impactem o mercado. Além de aberto a opotunidades de emprego e colaboração em projetos.<br><br>
-  <b>Contatos:</b><br><br>
+  I am always looking to improve my skills and learn new tools that impact the market. In addition to being open to employment opportunities and collaboration on projects.<br><br>
+  <b>Contacts:</b><br><br>
   <a href = "mailto:lukas.veiga10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lukas-veiga-79371b20a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
