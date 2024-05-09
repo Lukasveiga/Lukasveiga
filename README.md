@@ -10,12 +10,16 @@ where I developed expertise in the Python programming language,  data analysis, 
 models. Currently, I have been dedicated to studying agile development models, such as TDD, and
 design patterns, like Clean Architecture.
 ```
-   
-<div style="display: inline_block"><br> 
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact" alt="lukasveiga" /></p>
-
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en" alt="lukasveiga" /></p>
-  <b>Technologies:</b><br><br>
+   <div>
+      <img align="right" src="https://cdn.dribbble.com/users/1180042/screenshots/6033860/iron_giant_walk.gif">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact" alt="lukasveiga" width="300"/>
+      <br><br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en" alt="lukasveiga" width="300"/>
+      <br><br>
+   </div>
+   <div style="display: inline_block">
+    <b>Technologies:</b>
+      <br><br>
   <img align="center" alt="Lukas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Lukas-Spring" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">
   <img align="center" alt="Lukas-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
