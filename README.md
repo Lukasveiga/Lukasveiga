@@ -10,10 +10,9 @@ where I developed expertise in the Python programming language,  data analysis, 
 models. Currently, I have been dedicated to studying agile development models, such as TDD, and
 design patterns, like Clean Architecture.
 ```
-   <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lukasveiga" width="300"/>
-      <br><br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en&theme=tokyonight" alt="lukasveiga" width="400"/>
+   <div align="center" style="display: inline_block">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lukasveiga" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=lukasveiga&show_icons=true&locale=en&theme=tokyonight" alt="lukasveiga" width="400"/>
       <br><br>
    </div>
    <div style="display: inline_block">
