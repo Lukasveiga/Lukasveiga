@@ -20,6 +20,7 @@ design patterns, like Clean Architecture.
       <br><br>
   <img align="center" alt="Lukas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Lukas-Spring" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png">
+  <img align="center" alt="Lukas-Golang" height="50" width="50" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/3478773144ed1d8fe4081f205933752631529e9f/svg/golang_1.svg">
   <img align="center" alt="Lukas-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lukas-TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lukas-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
