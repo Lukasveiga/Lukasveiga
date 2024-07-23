@@ -29,37 +29,6 @@ design patterns, like Clean Architecture.
   <img align="center" alt="Lukas-Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">
   <img align="center" alt="Lukas-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
-<br>
-<div align='justify'>
-  <b>Main projects:</b><br><br>
-  <ul>
-     <li>
-        <a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System(#developing)</a>
-        <p>
-           This project entails the development of a robust hotel reservation system REST API leveraging Java and Spring Boot.
-        </p>
-     </li>
-     <li>
-      <a href='https://github.com/Lukasveiga/newsletter-sender-clean-arch'>NewsLetter sender with Clean Architecture</a>
-  <p>Newsletter sending software developed following Clean Architecture standards with Typescript + NodeJs + MongoDB + Express + Application containerization with Docker + Continuous Integration</p>
-    </li>
-    <li>
-      <a href='https://github.com/Lukasveiga/todo-list-node-api'>To-Do List API</a>
-  <p>Task List API. At first it appears to be a to-do list project like any other, but this project aims to put into practice important backend development concepts for creating robust software.
-  What concepts are found in this project? Layering pattern, unit and integration tests, containerized databases, clean architecture principles, SOLID and caching.
- <br>
-    Technologies used: JavaScript + NodeJS + PostgreSQL + Redis + Docker.</p>
-  </p>
-    </li>
-     <li>
-        <a href="https://github.com/Lukasveiga/book-manager">Book Manager API</a>
-        <p>Rest API for managing book registrations, as well as their respective authors and associated categories. The project was prepared adopting the layered architecture pattern, following the Single Responsibility Principle, and includes coverage of both unit and integration tests.
-
-<br>
-Technologies used: Java + Spring Boot + PostgreSQL + Docker.</p>
-     </li>
-  </ul>
-</div>
 
 ---
 
