@@ -32,6 +32,23 @@ design patterns, like Clean Architecture.
 
 ---
 
+<b>Projects:</b>
+<ul>
+   <li><a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System (developing)</a>: This project entails the development of a robust Hotel Reservation System leveraging Java and Spring Boot using microservices architecture. <br>
+   Technologies: Java, Spring Boot, Spring Cloud, GoLang, RabbitMQ, PostgreSQL.
+   </li>
+   <br>
+   <li><a href="https://github.com/Lukasveiga/customers-users-transactions">Customers Users Transactions - GoLang Challenge (developing)</a>: API that allows customers to know all transactions for a given user. <br>
+   Technologies: GoLang, gRPC, PostgreSQL.
+   </li>
+   <br>
+   <li><a href="https://github.com/Lukasveiga/newsletter-sender-clean-arch">NewsLetter sender</a>: Email delivery project containing the content of a newsletter, developed using Node.js and Typescript. The entire project adheres to the Clean Architecture. <br>
+   Technologies: NodeJs, TypeScript, Express, MongoDB.
+   </li>
+</ul>
+
+---
+
 <div> 
   I am always looking to improve my skills and learn new tools that impact the market. In addition to being open to employment opportunities and collaboration on projects.<br><br>
   <b>Contacts:</b><br><br>
