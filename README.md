@@ -34,11 +34,11 @@ design patterns, like Clean Architecture.
 
 <b>Projects:</b>
 <ul>
-   <li><a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System (developing)</a>: This project entails the development of a robust Hotel Reservation System leveraging Java and Spring Boot using microservices architecture. <br>
+   <li><a href="https://github.com/Lukasveiga/hotel-reservation-system">Hotel Reservation System</a>: This project entails the development of a robust Hotel Reservation System leveraging Java and Spring Boot using microservices architecture. <br>
    Technologies: Java, Spring Boot, Spring Cloud, GoLang, RabbitMQ, PostgreSQL.
    </li>
    <br>
-   <li><a href="https://github.com/Lukasveiga/customers-users-transactions">Customers Users Transactions - GoLang Challenge (developing)</a>: API that allows customers to know all transactions for a given user. <br>
+   <li><a href="https://github.com/Lukasveiga/customers-users-transactions">Customers Users Transactions - GoLang Challenge</a>: API that allows customers to know all transactions for a given user. <br>
    Technologies: GoLang, gRPC, PostgreSQL.
    </li>
    <br>
