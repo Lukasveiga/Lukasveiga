@@ -39,7 +39,7 @@ design patterns, like Clean Architecture.
    </li>
    <br>
    <li><a href="https://github.com/Lukasveiga/customers-users-transactions">Customers Users Transactions - GoLang Challenge</a>: API that allows customers to know all transactions for a given user. <br>
-   Technologies: GoLang, gRPC, PostgreSQL.
+   Technologies: GoLang, gRPC, PostgreSQL, Nginx.
    </li>
    <br>
    <li><a href="https://github.com/Lukasveiga/newsletter-sender-clean-arch">NewsLetter sender</a>: Email delivery project containing the content of a newsletter, developed using Node.js and Typescript. The entire project adheres to the Clean Architecture. <br>
