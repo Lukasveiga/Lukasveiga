@@ -3,12 +3,12 @@
 ```console
 lukas-veiga@backend:~$ sudo get about
 
-I have been studying programming for at least 3 years, with a focus on web backend development using
-Java + Spring Boot.  I also have experience in Javascript, Typescript, Node.js, and Express.  I have
-previously  worked as a data scientist,  focusing on  scientific research in the environmental field,
-where I developed expertise in the Python programming language,  data analysis, and machine learning
-models. Currently, I have been dedicated to studying agile development models, such as TDD, and
-design patterns, like Clean Architecture.
+Backend Developer with over two years of experience specializing in Java, Go,  and Node.js, building  scalable,
+reliable, and resilient backend systems. I have a strong focus on designing and implementing architectures that
+support high availability and performance.Currently, I’m contributing to open source and working on a volunteer
+project as a backend developer.  In addition, I’m actively expanding my expertise in cloud development,  with a
+focus  on AWS services, containerization,and CI/CD pipelines. I’m  particularly interested in system design and
+microservices architecture.
 ```
    <div align="center" style="display: inline_block">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasveiga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lukasveiga" width="300"/>
